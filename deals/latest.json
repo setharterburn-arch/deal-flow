@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-17T09:33:27-05:00",
+  "updated_at": "2026-09-17T09:35:48-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-17T09:33:27-05:00",
@@ -34,9 +34,25 @@
       "updated_at": null
     },
     "samsung_pixel": {
+      "updated_at": "2026-09-17T09:35:48-05:00",
       "confident_flips": [],
-      "needs_eyes": [],
-      "updated_at": null
+      "needs_eyes": [
+        {
+          "listing_id": "4444843512473041",
+          "title": "Samsung Galaxy S24 Ultra",
+          "price": 400,
+          "buy_price": 430,
+          "buyer": "BestDealPhones",
+          "best_case_margin": 30,
+          "condition": "unknown, one dead pixel noted",
+          "lock_status": "unlocked",
+          "location": "Chattanooga, TN",
+          "distance_mi": 140,
+          "product_url": "https://www.facebook.com/marketplace/item/4444843512473041",
+          "found_at": "2026-09-17T14:34:45",
+          "question": "Is the dead pixel the only issue, and can you send a close-up photo of it?"
+        }
+      ]
     }
   }
 }
