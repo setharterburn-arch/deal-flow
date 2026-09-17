@@ -1,27 +1,27 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-17T09:35:48-05:00",
+  "updated_at": "2026-09-17T09:37:09-05:00",
   "watches": {
     "iphone_apple": {
-      "updated_at": "2026-09-17T09:33:27-05:00",
-      "confident_flips": [
+      "updated_at": "2026-09-17T09:37:09-05:00",
+      "confident_flips": [],
+      "needs_eyes": [
         {
-          "listing_id": "TEST001",
-          "title": "[TEST] iPhone 15 Pro 128GB \u2014 functionality test, NOT a real deal",
-          "price": 400,
-          "buy_price": 500,
-          "buyer": "BestDealPhones",
-          "margin": 100,
-          "condition": "B-good",
-          "location": "Glasgow, KY",
-          "distance_mi": 2,
-          "product_url": "https://www.facebook.com/marketplace/item/TEST001",
-          "found_at": "2026-09-17T09:33:27-05:00",
-          "note": "test entry for Grok Bot read-path verification; will be replaced by real scan data"
+          "listing_id": "1047721771441773",
+          "title": "Apple Watch Ultra 49mm Titanium",
+          "price": 75,
+          "buy_price": 225,
+          "buyer": "wholesale (Ultra 2 payout)",
+          "best_case_margin": 150,
+          "condition": "used fair, back glass broken, works",
+          "location": "Lebanon, TN",
+          "distance_mi": 58,
+          "product_url": "https://www.facebook.com/marketplace/item/1047721771441773",
+          "found_at": "2026-09-17T14:37:09Z",
+          "question": "Is this the Ultra 1 or Ultra 2, and is the back glass the only damage?"
         }
-      ],
-      "needs_eyes": []
+      ]
     },
     "pc_console": {
       "confident_flips": [],
