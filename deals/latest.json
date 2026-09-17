@@ -1,1 +1,42 @@
-{"notes":"Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.","timezone":"America/Chicago","updated_at":"2026-09-17T09:15:00-05:00","watches":{"iphone_apple":{"confident_flips":[],"needs_eyes":[],"updated_at":null},"pc_console":{"confident_flips":[],"needs_eyes":[],"updated_at":null},"rugged":{"confident_flips":[],"needs_eyes":[],"updated_at":null},"samsung_pixel":{"confident_flips":[],"needs_eyes":[],"updated_at":null}}}
+{
+  "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
+  "timezone": "America/Chicago",
+  "updated_at": "2026-09-17T09:33:27-05:00",
+  "watches": {
+    "iphone_apple": {
+      "updated_at": "2026-09-17T09:33:27-05:00",
+      "confident_flips": [
+        {
+          "listing_id": "TEST001",
+          "title": "[TEST] iPhone 15 Pro 128GB \u2014 functionality test, NOT a real deal",
+          "price": 400,
+          "buy_price": 500,
+          "buyer": "BestDealPhones",
+          "margin": 100,
+          "condition": "B-good",
+          "location": "Glasgow, KY",
+          "distance_mi": 2,
+          "product_url": "https://www.facebook.com/marketplace/item/TEST001",
+          "found_at": "2026-09-17T09:33:27-05:00",
+          "note": "test entry for Grok Bot read-path verification; will be replaced by real scan data"
+        }
+      ],
+      "needs_eyes": []
+    },
+    "pc_console": {
+      "confident_flips": [],
+      "needs_eyes": [],
+      "updated_at": null
+    },
+    "rugged": {
+      "confident_flips": [],
+      "needs_eyes": [],
+      "updated_at": null
+    },
+    "samsung_pixel": {
+      "confident_flips": [],
+      "needs_eyes": [],
+      "updated_at": null
+    }
+  }
+}
