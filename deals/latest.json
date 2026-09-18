@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-17T09:37:09-05:00",
+  "updated_at": "2026-09-18T05:09:21-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-17T09:37:09-05:00",
@@ -24,9 +24,9 @@
       ]
     },
     "pc_console": {
+      "updated_at": "2026-09-18T05:09:21-05:00",
       "confident_flips": [],
-      "needs_eyes": [],
-      "updated_at": null
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
