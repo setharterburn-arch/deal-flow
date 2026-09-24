@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T12:13:36-05:00",
+  "updated_at": "2026-09-24T13:11:27-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,37 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T12:13:36-05:00",
-      "confident_flips": [],
-      "needs_eyes": []
+      "updated_at": "2026-09-24T13:11:27-05:00",
+      "confident_flips": [
+        {
+          "buy_price": 284.38,
+          "buyer": "GameStop",
+          "condition": "used (like new)",
+          "distance_mi": 81,
+          "found_at": "2026-09-24T12:12:32-05:00",
+          "listing_id": "1393526769036300",
+          "location": "Gautier, MS",
+          "margin": 84.38,
+          "price": 200,
+          "product_url": "https://www.facebook.com/marketplace/item/1393526769036300",
+          "title": "Xbox Series X"
+        }
+      ],
+      "needs_eyes": [
+        {
+          "best_case_margin": 59,
+          "buyer": "eBay",
+          "condition": "used (fair)",
+          "distance_mi": 53,
+          "found_at": "2026-09-24T12:32:43-05:00",
+          "listing_id": "4327020387444520",
+          "location": "Mobile, AL",
+          "price": 100,
+          "product_url": "https://www.facebook.com/marketplace/item/4327020387444520",
+          "question": "What's in the lot? Ask for the exact GPU model, CPU, RAM size and SSD size.",
+          "title": "Pc parts"
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
