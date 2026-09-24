@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T11:44:59-05:00",
+  "updated_at": "2026-09-24T12:12:13-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T11:44:59-05:00",
+      "updated_at": "2026-09-24T12:12:13-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "best_case_margin": 86,
-          "buy_price": 236,
-          "buyer": "eBay",
-          "condition": "used \u2014 sold as-is, working status unconfirmed",
-          "distance_mi": 47,
-          "found_at": "2026-09-24T11:36:00-05:00",
-          "listing_id": "4676266705927948",
-          "location": "Pensacola, FL",
-          "price": 150,
-          "product_url": "https://www.facebook.com/marketplace/item/4676266705927948",
-          "question": "Does the card work \u2014 can you verify it posts / run GPU-Z before I pay?",
-          "title": "EVGA GeForce RTX 2080 ti"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
