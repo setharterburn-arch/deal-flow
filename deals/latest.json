@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T16:13:28-05:00",
+  "updated_at": "2026-09-24T17:13:17-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -55,25 +55,49 @@
       ]
     },
     "groups": {
-      "updated_at": "2026-09-24T16:13:28-05:00",
+      "updated_at": "2026-09-24T17:13:17-05:00",
       "confident_flips": [],
       "needs_eyes": [
         {
-          "listing_id": "4500704470258757",
-          "title": "Stihl fs 45 $65 - 36576  Stihl curved shaft weedeater has new carburetor,fuel lines and fi",
-          "price": 65.0,
-          "location": "36576",
-          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500704470258757/?sale_post_id=4500704470258757",
-          "found_at": "2026-09-24T16:12:59-05:00",
+          "listing_id": "4500760183586519",
+          "title": "Vintage Nancy Drew Mystery Books Lot $32 - 36606  Vintage lot of Nancy Drew mystery books ",
+          "price": 32.0,
+          "location": "36606",
+          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500760183586519/?sale_post_id=4500760183586519",
+          "found_at": "2026-09-24T17:12:58-05:00",
           "condition": "unknown",
           "group": "Mobile Alabama / Gulf Shores Buy & Sell",
-          "full_text": "Stihl fs 45\n$65 - 36576\n\nStihl curved shaft weedeater has new carburetor,fuel lines and filter runs good pick up in silverhill",
+          "full_text": "Vintage Nancy Drew Mystery Books Lot\n$32 - 36606\n\nVintage lot of Nancy Drew mystery books includes numerous hardcover editions by Carolyn Keene. The collection features the iconic yellow spines and illustrated front covers. Publishing is by Grosset & Dunlap. Specific titles visible include 'The Moonstone Castle Mystery,' 'The Secret at Lone Tree Cottage,' and 'The Sky Phantom.'",
           "kind": "retro",
-          "best_case_margin": 75,
+          "best_case_margin": 108,
           "question": "What games/systems are included \u2014 any title list or photos of the carts?",
           "outreach": {
-            "seller_name": "John Miniard",
-            "profile_url": "https://www.facebook.com/profile.php?id=100050646653512",
+            "seller_name": "Suraya Bliss",
+            "profile_url": "https://www.facebook.com/profile.php?id=100086574622856",
+            "carrier": "visible",
+            "condition_notes": [],
+            "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
+            "target_offer": null,
+            "offer_text": null,
+            "hot": true
+          }
+        },
+        {
+          "listing_id": "4500755400253664",
+          "title": "Hauling Service! $70 - 36618  Hey everyone in the Mobile & surrounding areas!   Do you nee",
+          "price": 70.0,
+          "location": "36618",
+          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500755400253664/?sale_post_id=4500755400253664",
+          "found_at": "2026-09-24T17:12:58-05:00",
+          "condition": "unknown",
+          "group": "Mobile Alabama / Gulf Shores Buy & Sell",
+          "full_text": "Hauling Service!\n$70 - 36618\n\nHey everyone in the Mobile & surrounding areas! \n\nDo you need something moved affordably and don\u2019t have access to a truck and trailer? (Junk, furniture, appliances, motorcycles etc..) THEN WE GOT YOU!\n\nNewly started business by me and my wife, so the prices are very reasonable in order to get ourselves out there!  \n\nContact me for a free quote at (2\ufe0f\u20e35\ufe0f\u20e31\ufe0f\u20e3)4\ufe0f\u20e39\ufe0f\u20e39\ufe0f\u20e3-4\ufe0f\u20e34\ufe0f\u20e34\ufe0f\u20e32\ufe0f\u20e3",
+          "kind": "retro",
+          "best_case_margin": 70,
+          "question": "What games/systems are included \u2014 any title list or photos of the carts?",
+          "outreach": {
+            "seller_name": "Dima Stetsenko",
+            "profile_url": "https://www.facebook.com/profile.php?id=61552193010797",
             "carrier": null,
             "condition_notes": [],
             "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
