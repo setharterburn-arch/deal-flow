@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T10:17:46-05:00",
+  "updated_at": "2026-09-24T10:42:26-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,22 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T10:17:46-05:00",
+      "updated_at": "2026-09-24T10:42:26-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "id": "1631917355117298",
-          "title": "Asus tuf gaming laptop",
-          "price": 150.0,
-          "product_url": "https://www.facebook.com/marketplace/item/1631917355117298",
-          "location": "La Follette, TN",
-          "distance_mi": 430,
-          "condition": "used",
-          "best_case_margin": null,
-          "question": "What are the CPU, GPU, RAM, and SSD specs \u2014 and would you take $150 cash, or is it trade-only?",
-          "found_at": "2026-09-24T15:10:11.296Z"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
