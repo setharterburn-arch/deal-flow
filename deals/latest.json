@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T16:10:30-05:00",
+  "updated_at": "2026-09-24T16:13:28-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -51,6 +51,36 @@
           "product_url": "https://www.facebook.com/marketplace/item/4444843512473041",
           "found_at": "2026-09-17T14:34:45",
           "question": "Is the dead pixel the only issue, and can you send a close-up photo of it?"
+        }
+      ]
+    },
+    "groups": {
+      "updated_at": "2026-09-24T16:13:28-05:00",
+      "confident_flips": [],
+      "needs_eyes": [
+        {
+          "listing_id": "4500704470258757",
+          "title": "Stihl fs 45 $65 - 36576  Stihl curved shaft weedeater has new carburetor,fuel lines and fi",
+          "price": 65.0,
+          "location": "36576",
+          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500704470258757/?sale_post_id=4500704470258757",
+          "found_at": "2026-09-24T16:12:59-05:00",
+          "condition": "unknown",
+          "group": "Mobile Alabama / Gulf Shores Buy & Sell",
+          "full_text": "Stihl fs 45\n$65 - 36576\n\nStihl curved shaft weedeater has new carburetor,fuel lines and filter runs good pick up in silverhill",
+          "kind": "retro",
+          "best_case_margin": 75,
+          "question": "What games/systems are included \u2014 any title list or photos of the carts?",
+          "outreach": {
+            "seller_name": "John Miniard",
+            "profile_url": "https://www.facebook.com/profile.php?id=100050646653512",
+            "carrier": null,
+            "condition_notes": [],
+            "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
+            "target_offer": null,
+            "offer_text": null,
+            "hot": false
+          }
         }
       ]
     }
