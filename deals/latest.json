@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T17:13:17-05:00",
+  "updated_at": "2026-09-24T18:10:22-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,22 +9,22 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T16:10:30-05:00",
+      "updated_at": "2026-09-24T18:10:22-05:00",
       "confident_flips": [],
       "needs_eyes": [
         {
-          "best_case_margin": 40,
+          "best_case_margin": 50,
           "buy_price": 350,
           "buyer": "GameStop",
-          "condition": "Used (good)",
-          "distance_mi": 40,
-          "found_at": "2026-09-24T16:06:00-05:00",
-          "listing_id": "1899085057731319",
-          "location": "Mobile, AL",
-          "price": 310,
-          "product_url": "https://www.facebook.com/marketplace/item/1899085057731319",
+          "condition": "Used (like new)",
+          "distance_mi": 77,
+          "found_at": "2026-09-24T18:06:00-05:00",
+          "listing_id": "28563682919979692",
+          "location": "Pascagoula, MS",
+          "price": 300,
+          "product_url": "https://www.facebook.com/marketplace/item/28563682919979692",
           "question": "Which exact PS5 model is this \u2014 disc or digital, slim or original? (best case = standard disc at his $350 wholesale)",
-          "title": "Ps5"
+          "title": "PS5 with Like New with 4 games and 1 controller"
         }
       ]
     },
