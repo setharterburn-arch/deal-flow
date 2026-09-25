@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-25T00:08:59-05:00",
+  "updated_at": "2026-09-25T00:13:13-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -40,26 +40,26 @@
       ]
     },
     "groups": {
-      "updated_at": "2026-09-24T17:13:17-05:00",
+      "updated_at": "2026-09-25T00:13:13-05:00",
       "confident_flips": [],
       "needs_eyes": [
         {
-          "listing_id": "4500760183586519",
-          "title": "Vintage Nancy Drew Mystery Books Lot $32 - 36606  Vintage lot of Nancy Drew mystery books ",
-          "price": 32.0,
-          "location": "36606",
-          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500760183586519/?sale_post_id=4500760183586519",
-          "found_at": "2026-09-24T17:12:58-05:00",
+          "listing_id": "4501072646888606",
+          "title": "Vintage Figurines as a lot $10 - 36609  Front porch pickup in Mobile off of Hillcrest Road",
+          "price": 10.0,
+          "location": "36609",
+          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4501072646888606/?sale_post_id=4501072646888606",
+          "found_at": "2026-09-25T00:12:58-05:00",
           "condition": "unknown",
           "group": "Mobile Alabama / Gulf Shores Buy & Sell",
-          "full_text": "Vintage Nancy Drew Mystery Books Lot\n$32 - 36606\n\nVintage lot of Nancy Drew mystery books includes numerous hardcover editions by Carolyn Keene. The collection features the iconic yellow spines and illustrated front covers. Publishing is by Grosset & Dunlap. Specific titles visible include 'The Moonstone Castle Mystery,' 'The Secret at Lone Tree Cottage,' and 'The Sky Phantom.'",
+          "full_text": "Vintage Figurines as a lot\n$10 - 36609\n\nFront porch pickup in Mobile off of Hillcrest Road",
           "kind": "retro",
-          "best_case_margin": 108,
+          "best_case_margin": 130,
           "question": "What games/systems are included \u2014 any title list or photos of the carts?",
           "outreach": {
-            "seller_name": "Suraya Bliss",
-            "profile_url": "https://www.facebook.com/profile.php?id=100086574622856",
-            "carrier": "visible",
+            "seller_name": "Pamela Whitaker",
+            "profile_url": "https://www.facebook.com/profile.php?id=100004892760206",
+            "carrier": null,
             "condition_notes": [],
             "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
             "target_offer": null,
@@ -68,27 +68,27 @@
           }
         },
         {
-          "listing_id": "4500755400253664",
-          "title": "Hauling Service! $70 - 36618  Hey everyone in the Mobile & surrounding areas!   Do you nee",
-          "price": 70.0,
-          "location": "36618",
-          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4500755400253664/?sale_post_id=4500755400253664",
-          "found_at": "2026-09-24T17:12:58-05:00",
+          "listing_id": "4501049130224291",
+          "title": "Day of the Dead Sugar Skull Figurine Floral Crown Dia de los Muertos Decor $15 - 77414  Be",
+          "price": 15.0,
+          "location": "77414",
+          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4501049130224291/?sale_post_id=4501049130224291",
+          "found_at": "2026-09-25T00:12:58-05:00",
           "condition": "unknown",
           "group": "Mobile Alabama / Gulf Shores Buy & Sell",
-          "full_text": "Hauling Service!\n$70 - 36618\n\nHey everyone in the Mobile & surrounding areas! \n\nDo you need something moved affordably and don\u2019t have access to a truck and trailer? (Junk, furniture, appliances, motorcycles etc..) THEN WE GOT YOU!\n\nNewly started business by me and my wife, so the prices are very reasonable in order to get ourselves out there!  \n\nContact me for a free quote at (2\ufe0f\u20e35\ufe0f\u20e31\ufe0f\u20e3)4\ufe0f\u20e39\ufe0f\u20e39\ufe0f\u20e3-4\ufe0f\u20e34\ufe0f\u20e34\ufe0f\u20e32\ufe0f\u20e3",
+          "full_text": "Day of the Dead Sugar Skull Figurine Floral Crown Dia de los Muertos Decor\n$15 - 77414\n\nBeautifully detailed Dia de los Muertos Sugar Skull Tabletop Figurine perfect for adding a vibrant touch to your autumn displays, Halloween layout, or traditional ofrenda altar. This hand-painted resin skull features intricate blue flower accents around the eye sockets, green vine details, small rhinestone eyes/embellishments, and a striking three-dimensional crown of sculpted roses in shades of pink, red, orange, and purple.",
           "kind": "retro",
-          "best_case_margin": 70,
+          "best_case_margin": 125,
           "question": "What games/systems are included \u2014 any title list or photos of the carts?",
           "outreach": {
-            "seller_name": "Dima Stetsenko",
-            "profile_url": "https://www.facebook.com/profile.php?id=61552193010797",
+            "seller_name": "Mariah Ocampo",
+            "profile_url": "https://www.facebook.com/profile.php?id=1318657593",
             "carrier": null,
             "condition_notes": [],
             "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
             "target_offer": null,
             "offer_text": null,
-            "hot": false
+            "hot": true
           }
         }
       ]
