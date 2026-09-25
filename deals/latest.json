@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-25T09:10:16-05:00",
+  "updated_at": "2026-09-25T09:38:07-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -19,24 +19,9 @@
       "updated_at": null
     },
     "samsung_pixel": {
-      "updated_at": "2026-09-25T07:52:39-05:00",
+      "updated_at": "2026-09-25T09:38:07-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "listing_id": "1798200188186129",
-          "title": "Samsung",
-          "price": 100,
-          "buy_price": 160,
-          "buyer": "BestDealPhones",
-          "condition": "unknown model, used (good)",
-          "location": "Pensacola, FL",
-          "distance_mi": 46,
-          "product_url": "https://www.facebook.com/marketplace/item/1798200188186129",
-          "found_at": "2026-09-25T07:52:39-05:00",
-          "best_case_margin": 60,
-          "question": "what exact model is this?"
-        }
-      ]
+      "needs_eyes": []
     },
     "groups": {
       "updated_at": "2026-09-25T05:13:22-05:00",
