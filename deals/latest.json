@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T20:10:46-05:00",
+  "updated_at": "2026-09-24T21:14:08-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,24 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T20:10:46-05:00",
+      "updated_at": "2026-09-24T21:14:08-05:00",
       "confident_flips": [],
-      "needs_eyes": []
+      "needs_eyes": [
+        {
+          "best_case_margin": 250,
+          "buy_price": 350,
+          "buyer": "GameStop",
+          "condition": "unknown",
+          "distance_mi": 45,
+          "found_at": "2026-09-24T21:06:17-05:00",
+          "listing_id": "2242185986714325",
+          "location": "Foley, AL",
+          "price": 100,
+          "product_url": "https://www.facebook.com/marketplace/item/2242185986714325",
+          "question": "What's the actual asking price? Your description says 'ask for price' but the listing shows $100.",
+          "title": "PlayStation 5 Slim 1TB"
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
