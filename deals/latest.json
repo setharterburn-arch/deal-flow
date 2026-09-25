@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-25T05:10:13-05:00",
+  "updated_at": "2026-09-25T05:13:22-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -40,58 +40,9 @@
       ]
     },
     "groups": {
-      "updated_at": "2026-09-25T00:13:13-05:00",
+      "updated_at": "2026-09-25T05:13:22-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "listing_id": "4501072646888606",
-          "title": "Vintage Figurines as a lot $10 - 36609  Front porch pickup in Mobile off of Hillcrest Road",
-          "price": 10.0,
-          "location": "36609",
-          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4501072646888606/?sale_post_id=4501072646888606",
-          "found_at": "2026-09-25T00:12:58-05:00",
-          "condition": "unknown",
-          "group": "Mobile Alabama / Gulf Shores Buy & Sell",
-          "full_text": "Vintage Figurines as a lot\n$10 - 36609\n\nFront porch pickup in Mobile off of Hillcrest Road",
-          "kind": "retro",
-          "best_case_margin": 130,
-          "question": "What games/systems are included \u2014 any title list or photos of the carts?",
-          "outreach": {
-            "seller_name": "Pamela Whitaker",
-            "profile_url": "https://www.facebook.com/profile.php?id=100004892760206",
-            "carrier": null,
-            "condition_notes": [],
-            "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
-            "target_offer": null,
-            "offer_text": null,
-            "hot": true
-          }
-        },
-        {
-          "listing_id": "4501049130224291",
-          "title": "Day of the Dead Sugar Skull Figurine Floral Crown Dia de los Muertos Decor $15 - 77414  Be",
-          "price": 15.0,
-          "location": "77414",
-          "product_url": "https://facebook.com/groups/1405378493124719/permalink/4501049130224291/?sale_post_id=4501049130224291",
-          "found_at": "2026-09-25T00:12:58-05:00",
-          "condition": "unknown",
-          "group": "Mobile Alabama / Gulf Shores Buy & Sell",
-          "full_text": "Day of the Dead Sugar Skull Figurine Floral Crown Dia de los Muertos Decor\n$15 - 77414\n\nBeautifully detailed Dia de los Muertos Sugar Skull Tabletop Figurine perfect for adding a vibrant touch to your autumn displays, Halloween layout, or traditional ofrenda altar. This hand-painted resin skull features intricate blue flower accents around the eye sockets, green vine details, small rhinestone eyes/embellishments, and a striking three-dimensional crown of sculpted roses in shades of pink, red, orange, and purple.",
-          "kind": "retro",
-          "best_case_margin": 125,
-          "question": "What games/systems are included \u2014 any title list or photos of the carts?",
-          "outreach": {
-            "seller_name": "Mariah Ocampo",
-            "profile_url": "https://www.facebook.com/profile.php?id=1318657593",
-            "carrier": null,
-            "condition_notes": [],
-            "opener": "Hi, is this still available? What games/systems are included \u2014 any title list or photos of the carts?",
-            "target_offer": null,
-            "offer_text": null,
-            "hot": true
-          }
-        }
-      ]
+      "needs_eyes": []
     }
   }
 }
