@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-24T22:11:01-05:00",
+  "updated_at": "2026-09-24T23:11:53-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-24T22:11:01-05:00",
+      "updated_at": "2026-09-24T23:11:53-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "listing_id": "1065982889392312",
-          "title": "Xbox with one controller",
-          "price": 150,
-          "buy_price": 284.38,
-          "buyer": "GameStop",
-          "best_case_margin": 134.38,
-          "condition": "unknown",
-          "location": "Robertsdale, AL",
-          "distance_mi": 36,
-          "product_url": "https://www.facebook.com/marketplace/item/1065982889392312",
-          "found_at": "2026-09-24T22:07:00-05:00",
-          "question": "Which Xbox generation is it \u2014 Series X, Series S, One, or 360? (best-case: Series X, wholesale $284.38, margin $134)"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
