@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-26T00:09:35-05:00",
+  "updated_at": "2026-09-26T01:08:27-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-26T00:09:35-05:00",
+      "updated_at": "2026-09-26T01:08:27-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "listing_id": "2692961347828344",
-          "title": "Ps5",
-          "price": 250,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "best_case_margin": 100,
-          "condition": "Used (like new)",
-          "location": "FL",
-          "distance_mi": 72,
-          "product_url": "https://www.facebook.com/marketplace/item/2692961347828344",
-          "found_at": "2026-09-25T22:16:58-05:00",
-          "question": "exact model? (disc/digital? slim/original?)"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
