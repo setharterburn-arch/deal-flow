@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-27T13:08:59-05:00",
+  "updated_at": "2026-09-27T14:09:10-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,8 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-27T13:08:59-05:00",
-      "confident_flips": [
-        {
-          "best_case_margin": null,
-          "buy_price": 350.0,
-          "buyer": "Wholesale (GameStop cash x1.25 floor, PS5=$350 confirmed)",
-          "condition": "Used (good)",
-          "distance_mi": 53,
-          "found_at": "2026-09-27T13:09:00-05:00",
-          "listing_id": "1069369829058705",
-          "location": "Jackson, AL",
-          "margin": 75.0,
-          "price": 275.0,
-          "product_url": "https://www.facebook.com/marketplace/item/1069369829058705",
-          "question": null,
-          "title": "Playstation 5 disc edition"
-        }
-      ],
+      "updated_at": "2026-09-27T14:09:10-05:00",
+      "confident_flips": [],
       "needs_eyes": []
     },
     "rugged": {
