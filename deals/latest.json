@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-27T08:07:01-05:00",
+  "updated_at": "2026-09-27T08:08:46-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,22 +9,8 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-27T08:07:01-05:00",
-      "confident_flips": [
-        {
-          "buy_price": 1249,
-          "buyer": "eBay",
-          "condition": "used (like new)",
-          "distance_mi": 53,
-          "found_at": "2026-09-27T08:45:00-05:00",
-          "listing_id": "1989788625072128",
-          "location": "Moss Point, MS",
-          "margin": 49,
-          "price": 1200,
-          "product_url": "https://www.facebook.com/marketplace/item/1989788625072128",
-          "title": "PNY+NVIDIA+RTX+3090+24GB+OC"
-        }
-      ],
+      "updated_at": "2026-09-27T08:08:46-05:00",
+      "confident_flips": [],
       "needs_eyes": []
     },
     "rugged": {
