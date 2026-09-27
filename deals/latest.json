@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-27T11:12:58-05:00",
+  "updated_at": "2026-09-27T12:08:29-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,24 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-27T11:12:58-05:00",
+      "updated_at": "2026-09-27T12:08:29-05:00",
       "confident_flips": [],
-      "needs_eyes": []
+      "needs_eyes": [
+        {
+          "listing_id": "1816612899653815",
+          "title": "Gaming PC",
+          "price": 250.0,
+          "buy_price": 342.0,
+          "buyer": "eBay",
+          "condition": "Used (fair)",
+          "location": "Mobile, AL",
+          "distance_mi": 30,
+          "product_url": "https://www.facebook.com/marketplace/item/1816612899653815",
+          "found_at": "2026-09-27T12:08:27-05:00",
+          "question": "What CPU, GPU, RAM and SSD does it have? (seller says she doesn't know the parts \u2014 ask if photos of the case/specs sticker are possible)",
+          "best_case_margin": 92.0
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
