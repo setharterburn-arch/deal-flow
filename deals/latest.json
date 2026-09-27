@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-27T16:10:29-05:00",
+  "updated_at": "2026-09-27T17:08:29-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-27T16:10:29-05:00",
+      "updated_at": "2026-09-27T17:08:29-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "best_case_margin": 208,
-          "buy_price": 408,
-          "buyer": "eBay",
-          "condition": "Used (like new)",
-          "distance_mi": 29,
-          "found_at": "2026-09-27T16:10:00-05:00",
-          "listing_id": "2282019642561535",
-          "location": "Pensacola, FL",
-          "price": 200,
-          "product_url": "https://www.facebook.com/marketplace/item/2282019642561535",
-          "question": "What CPU, GPU, RAM and SSD specs does it have?",
-          "title": "Beastcom gaming pc"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
