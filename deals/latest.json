@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-27T12:08:29-05:00",
+  "updated_at": "2026-09-27T13:08:59-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,25 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-27T12:08:29-05:00",
-      "confident_flips": [],
-      "needs_eyes": [
+      "updated_at": "2026-09-27T13:08:59-05:00",
+      "confident_flips": [
         {
-          "listing_id": "1816612899653815",
-          "title": "Gaming PC",
-          "price": 250.0,
-          "buy_price": 342.0,
-          "buyer": "eBay",
-          "condition": "Used (fair)",
-          "location": "Mobile, AL",
-          "distance_mi": 30,
-          "product_url": "https://www.facebook.com/marketplace/item/1816612899653815",
-          "found_at": "2026-09-27T12:08:27-05:00",
-          "question": "What CPU, GPU, RAM and SSD does it have? (seller says she doesn't know the parts \u2014 ask if photos of the case/specs sticker are possible)",
-          "best_case_margin": 92.0
+          "best_case_margin": null,
+          "buy_price": 350.0,
+          "buyer": "Wholesale (GameStop cash x1.25 floor, PS5=$350 confirmed)",
+          "condition": "Used (good)",
+          "distance_mi": 53,
+          "found_at": "2026-09-27T13:09:00-05:00",
+          "listing_id": "1069369829058705",
+          "location": "Jackson, AL",
+          "margin": 75.0,
+          "price": 275.0,
+          "product_url": "https://www.facebook.com/marketplace/item/1069369829058705",
+          "question": null,
+          "title": "Playstation 5 disc edition"
         }
-      ]
+      ],
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
