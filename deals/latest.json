@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-28T13:08:55-05:00",
+  "updated_at": "2026-09-28T14:10:45-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,24 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-28T13:08:55-05:00",
+      "updated_at": "2026-09-28T14:10:45-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "best_case_margin": 40,
-          "buy_price": 140,
-          "buyer": "GameStop",
-          "condition": "Used, needs HDMI port repair",
-          "distance_mi": 96,
-          "found_at": "2026-09-28T13:08:30-05:00",
-          "listing_id": "2342193753190561",
-          "location": "Nashville, TN",
-          "price": 100,
-          "product_url": "https://www.facebook.com/marketplace/item/2342193753190561",
-          "question": "You say it needs a new HDMI port - is the port physically loose/broken, or does it just not display at all? And does it come with a controller and power cable?",
-          "title": "Xbox Series S Console"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
