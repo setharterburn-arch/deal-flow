@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-28T08:07:58-05:00",
+  "updated_at": "2026-09-28T08:09:16-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,80 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-28T08:07:58-05:00",
+      "updated_at": "2026-09-28T08:09:16-05:00",
       "confident_flips": [],
-      "needs_eyes": []
+      "needs_eyes": [
+        {
+          "best_case_margin": 219,
+          "buy_price": 342,
+          "buyer": "eBay",
+          "condition": "Used (like new)",
+          "distance_mi": 66,
+          "found_at": "2026-09-28T08:20:00-05:00",
+          "listing_id": "1060671950175373",
+          "location": "Crestview, FL",
+          "price": 123,
+          "product_url": "https://www.facebook.com/marketplace/item/1060671950175373",
+          "question": "What exactly is included in the setup - is there a PC tower, and what are its CPU, GPU, RAM and SSD specs?",
+          "title": "Gaming Setup"
+        },
+        {
+          "best_case_margin": 150,
+          "buy_price": 350,
+          "buyer": "eBay",
+          "condition": "Used (like new)",
+          "distance_mi": 60,
+          "found_at": "2026-09-28T08:20:00-05:00",
+          "listing_id": "1129581486063580",
+          "location": "Evergreen, AL",
+          "price": 200,
+          "product_url": "https://www.facebook.com/marketplace/item/1129581486063580",
+          "question": "Is this a full PS5 console or a portable/PS Portal-type device?",
+          "title": "Portable PlayStation 5"
+        },
+        {
+          "best_case_margin": 142,
+          "buy_price": 342,
+          "buyer": "eBay",
+          "condition": "Used (good)",
+          "distance_mi": 77,
+          "found_at": "2026-09-28T08:20:00-05:00",
+          "listing_id": "1434020035277464",
+          "location": "Andalusia, AL",
+          "price": 200,
+          "product_url": "https://www.facebook.com/marketplace/item/1434020035277464",
+          "question": "What are the CPU, GPU, RAM and SSD specs?",
+          "title": "Gaming pc"
+        },
+        {
+          "best_case_margin": 92,
+          "buy_price": 342,
+          "buyer": "eBay",
+          "condition": "Used (good)",
+          "distance_mi": 30,
+          "found_at": "2026-09-28T08:20:00-05:00",
+          "listing_id": "1647257803503434",
+          "location": "Foley, AL",
+          "price": 250,
+          "product_url": "https://www.facebook.com/marketplace/item/1647257803503434",
+          "question": "What are the CPU, GPU, RAM and SSD specs?",
+          "title": "Pc"
+        },
+        {
+          "best_case_margin": 92,
+          "buy_price": 342,
+          "buyer": "eBay",
+          "condition": "Used (like new)",
+          "distance_mi": 30,
+          "found_at": "2026-09-28T08:20:00-05:00",
+          "listing_id": "4098697746927479",
+          "location": "Mobile, AL",
+          "price": 250,
+          "product_url": "https://www.facebook.com/marketplace/item/4098697746927479",
+          "question": "What are the CPU, GPU, RAM and SSD specs? (Listing also says $300 negotiable - confirm the price.)",
+          "title": "pc"
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
