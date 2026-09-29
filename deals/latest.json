@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-29T11:10:26-05:00",
+  "updated_at": "2026-09-29T15:21:25-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,103 +9,36 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-29T11:10:26-05:00",
-      "confident_flips": [
-        {
-          "listing_id": "2170114613927175",
-          "title": "Sony PlayStation 5 Slim Digital Console with Controller",
-          "price": 300,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "margin": 50,
-          "condition": "Used (like new)",
-          "location": "Richmond, IN",
-          "distance_mi": 210,
-          "product_url": "https://www.facebook.com/marketplace/item/2170114613927175",
-          "found_at": "2026-09-29T09:10:00-05:00"
-        },
-        {
-          "listing_id": "1843120860353215",
-          "title": "Sony PS5 CONSOLE With 2TB Internal SSD, 2controllers,HDMI and all cables!!!",
-          "price": 200,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "margin": 150,
-          "condition": "Used (like new)",
-          "location": "Nashville, TN",
-          "distance_mi": 66,
-          "product_url": "https://www.facebook.com/marketplace/item/1843120860353215",
-          "found_at": "2026-09-29T10:13:54-05:00"
-        }
-      ],
+      "updated_at": "2026-09-29T15:21:25-05:00",
+      "confident_flips": [],
       "needs_eyes": [
         {
-          "listing_id": "1626301722203583",
-          "title": "macbook 2021",
-          "price": 100,
-          "buy_price": 253,
+          "listing_id": "2130035411233582",
+          "title": "Gaming Desktop PC",
+          "price": 240,
+          "buy_price": 480,
           "buyer": "eBay",
-          "condition": "Used (good)",
-          "location": "Jeffersonville, IN",
-          "distance_mi": 67,
-          "product_url": "https://www.facebook.com/marketplace/item/1626301722203583",
-          "found_at": "2026-09-29T05:10:01-05:00",
-          "best_case_margin": 153,
-          "question": "Which model/chip is this (M1 Air or M1 Pro) and does it boot to the desktop with no iCloud lock?"
+          "condition": "Used (good) \u2014 modern glass-panel case, tower CPU cooler, dedicated GPU installed (model unknown)",
+          "location": "Chattanooga, TN",
+          "distance_mi": 140,
+          "product_url": "https://www.facebook.com/marketplace/item/2130035411233582",
+          "found_at": "2026-09-29T15:00:31-05:00",
+          "best_case_margin": 120,
+          "question": "What are the exact CPU, GPU, RAM and SSD specs? (Seller's desc says $200 is their lowest.)"
         },
         {
-          "best_case_margin": 117,
-          "buy_price": 367,
-          "buyer": "eBay",
-          "condition": "Basically brand new; box, charger, extra anti-glare screen protector included",
-          "distance_mi": 57,
-          "found_at": "2026-09-28T23:10:00-05:00",
-          "listing_id": "2076749343202942",
-          "location": "Louisville, KY",
-          "price": 1,
-          "product_url": "https://www.facebook.com/marketplace/item/2076749343202942",
-          "question": "What's your cash price for it, and is it the Z1 Extreme or the base Z1?",
-          "title": "Asus ROG Ally"
-        },
-        {
-          "listing_id": "1827015561772100",
-          "title": "MacBook Air",
-          "price": 200,
-          "buy_price": 280,
-          "buyer": "eBay",
-          "condition": "Unknown (photo shows 2018-2020 Retina design, can't ID year)",
-          "location": "New Lebanon, OH",
-          "distance_mi": 190,
-          "product_url": "https://www.facebook.com/marketplace/item/1827015561772100",
-          "found_at": "2026-09-29T05:10:01-05:00",
-          "best_case_margin": 80,
-          "question": "What year/chip is this Air (M1 vs 2018/19 Intel)?"
-        },
-        {
-          "listing_id": "1422980213139961",
-          "title": "PlayStation 5 SIO5",
-          "price": 50,
+          "listing_id": "1431695951772003",
+          "title": "Ps5",
+          "price": 280,
           "buy_price": 350,
           "buyer": "GameStop",
-          "best_case_margin": 300,
-          "condition": "Used (like new)",
+          "condition": "Listed as New \u2014 original fat PS5, 1TB, shown powered on; no controller/cables/box visible in photos",
           "location": "Huntsville, AL",
           "distance_mi": 160,
-          "product_url": "https://www.facebook.com/marketplace/item/1422980213139961",
-          "found_at": "2026-09-29T10:13:54-05:00",
-          "question": "Photo shows a real PS5 Slim Digital with controller + game \u2014 confirm the $50 price is correct (not a typo), the console is included and working, and it's available for pickup."
-        },
-        {
-          "listing_id": "1071827608884784",
-          "title": "ASUS TUF GAMING A15",
-          "price": 175,
-          "best_case_margin": 150,
-          "question": "What are the exact CPU, GPU, RAM and SSD specs - and where exactly is the 'pretty major damage'?",
-          "condition": "Used (fair)",
-          "location": "Rossville, GA",
-          "distance_mi": 150,
-          "product_url": "https://www.facebook.com/marketplace/item/1071827608884784",
-          "found_at": "2026-09-29T11:10:26-05:00"
+          "product_url": "https://www.facebook.com/marketplace/item/1431695951772003",
+          "found_at": "2026-09-29T13:52:11-05:00",
+          "best_case_margin": 70,
+          "question": "Is it the disc or digital edition, and does it include the controller and power cable?"
         }
       ]
     },
