@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-28T18:15:22-05:00",
+  "updated_at": "2026-09-28T19:08:57-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,38 +9,9 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-28T18:15:22-05:00",
+      "updated_at": "2026-09-28T19:08:57-05:00",
       "confident_flips": [],
-      "needs_eyes": [
-        {
-          "best_case_margin": 50,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "condition": "Used (like new)",
-          "distance_mi": 110,
-          "found_at": "2026-09-28T18:06:17-05:00",
-          "listing_id": "1399319309054497",
-          "location": "Murfreesboro, TN",
-          "price": 300,
-          "product_url": "https://www.facebook.com/marketplace/item/1399319309054497",
-          "question": "Is this the disc edition, digital edition, or slim? (comes with 2 controllers, 2 headsets, 3 games)",
-          "title": "Ps5"
-        },
-        {
-          "best_case_margin": 50,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "condition": "Used (like new)",
-          "distance_mi": 55,
-          "found_at": "2026-09-28T18:06:17-05:00",
-          "listing_id": "28315750778052348",
-          "location": "Lewisport, KY",
-          "price": 300,
-          "product_url": "https://www.facebook.com/marketplace/item/28315750778052348",
-          "question": "Is this the disc edition, digital edition, or slim?",
-          "title": "Ps5"
-        }
-      ]
+      "needs_eyes": []
     },
     "rugged": {
       "confident_flips": [],
