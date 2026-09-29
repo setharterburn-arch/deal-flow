@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-29T16:12:21-05:00",
+  "updated_at": "2026-09-29T17:12:00-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,8 +9,21 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-29T16:12:21-05:00",
+      "updated_at": "2026-09-29T17:12:00-05:00",
       "confident_flips": [
+        {
+          "listing_id": "2177003179693327",
+          "title": "PS5 Disc Edition \u2013 825GB \u2013 Console Only",
+          "price": 250,
+          "buy_price": 320,
+          "buyer": "GameStop",
+          "margin": 70,
+          "condition": "Used (good) \u2014 console only, NO controller included (wholesale comp 350 - 30)",
+          "location": "Indianapolis, IN",
+          "distance_mi": 190,
+          "product_url": "https://www.facebook.com/marketplace/item/2177003179693327",
+          "found_at": "2026-09-29T17:12:00-05:00"
+        },
         {
           "listing_id": "1071128302406546",
           "title": "XFX Speedster SWFT 309 Radeon RX 6700 XT 12GB Graphics Card",
