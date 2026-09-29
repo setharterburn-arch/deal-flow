@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-28T19:08:57-05:00",
+  "updated_at": "2026-09-28T20:10:53-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,38 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-28T19:08:57-05:00",
+      "updated_at": "2026-09-28T20:10:53-05:00",
       "confident_flips": [],
-      "needs_eyes": []
+      "needs_eyes": [
+        {
+          "best_case_margin": 222,
+          "buy_price": 472,
+          "buyer": "eBay",
+          "condition": "Used (good)",
+          "distance_mi": 33,
+          "found_at": "2026-09-28T20:06:17-05:00",
+          "listing_id": "2201188403791331",
+          "location": "Glasgow, KY",
+          "price": 250,
+          "product_url": "https://www.facebook.com/marketplace/item/2201188403791331",
+          "question": "What are the CPU, GPU, RAM and SSD specs?",
+          "title": "Gaming pc"
+        },
+        {
+          "best_case_margin": 135,
+          "buy_price": 185,
+          "buyer": "eBay",
+          "condition": "Used (like new)",
+          "distance_mi": 240,
+          "found_at": "2026-09-28T20:06:17-05:00",
+          "listing_id": "1449631957070227",
+          "location": "Clermont, GA",
+          "price": 50,
+          "product_url": "https://www.facebook.com/marketplace/item/1449631957070227",
+          "question": "What exact model is the MSI video card, and what size are the four RAM sticks?",
+          "title": "Multiple items for your PC."
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
