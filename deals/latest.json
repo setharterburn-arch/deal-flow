@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-29T15:21:25-05:00",
+  "updated_at": "2026-09-29T16:12:21-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,8 +9,22 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-29T15:21:25-05:00",
-      "confident_flips": [],
+      "updated_at": "2026-09-29T16:12:21-05:00",
+      "confident_flips": [
+        {
+          "listing_id": "1071128302406546",
+          "title": "XFX Speedster SWFT 309 Radeon RX 6700 XT 12GB Graphics Card",
+          "price": 180,
+          "buy_price": 246,
+          "buyer": "eBay",
+          "margin": 66,
+          "condition": "Used (like new)",
+          "location": "Huntsville, AL",
+          "distance_mi": 160,
+          "product_url": "https://www.facebook.com/marketplace/item/1071128302406546",
+          "found_at": "2026-09-29T16:07:00-05:00"
+        }
+      ],
       "needs_eyes": [
         {
           "listing_id": "2130035411233582",
