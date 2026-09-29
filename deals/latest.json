@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-29T09:37:36-05:00",
+  "updated_at": "2026-09-29T10:13:56-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-29T09:09:34-05:00",
+      "updated_at": "2026-09-29T10:13:56-05:00",
       "confident_flips": [
         {
           "listing_id": "2170114613927175",
@@ -25,17 +25,17 @@
           "found_at": "2026-09-29T09:10:00-05:00"
         },
         {
+          "listing_id": "1843120860353215",
+          "title": "Sony PS5 CONSOLE With 2TB Internal SSD, 2controllers,HDMI and all cables!!!",
+          "price": 200,
           "buy_price": 350,
           "buyer": "GameStop",
-          "condition": "New (bought from Walmart 2 weeks ago; includes controller + hookups; photo shows a real PS5, light dust on top)",
-          "distance_mi": 82,
-          "found_at": "2026-09-28T23:10:00-05:00",
-          "listing_id": "1653030896373908",
-          "location": "Hendersonville, TN",
-          "margin": 100,
-          "price": 250,
-          "product_url": "https://www.facebook.com/marketplace/item/1653030896373908",
-          "title": "PlayStation 5 Digital Version. Brand New"
+          "margin": 150,
+          "condition": "Used (like new)",
+          "location": "Nashville, TN",
+          "distance_mi": 66,
+          "product_url": "https://www.facebook.com/marketplace/item/1843120860353215",
+          "found_at": "2026-09-29T10:13:54-05:00"
         }
       ],
       "needs_eyes": [
@@ -80,6 +80,20 @@
           "found_at": "2026-09-29T05:10:01-05:00",
           "best_case_margin": 80,
           "question": "What year/chip is this Air (M1 vs 2018/19 Intel)?"
+        },
+        {
+          "listing_id": "1422980213139961",
+          "title": "PlayStation 5 SIO5",
+          "price": 50,
+          "buy_price": 350,
+          "buyer": "GameStop",
+          "best_case_margin": 300,
+          "condition": "Used (like new)",
+          "location": "Huntsville, AL",
+          "distance_mi": 160,
+          "product_url": "https://www.facebook.com/marketplace/item/1422980213139961",
+          "found_at": "2026-09-29T10:13:54-05:00",
+          "question": "Photo shows a real PS5 Slim Digital with controller + game \u2014 confirm the $50 price is correct (not a typo), the console is included and working, and it's available for pickup."
         }
       ]
     },
