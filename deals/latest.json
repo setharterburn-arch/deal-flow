@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-28T22:08:58-05:00",
+  "updated_at": "2026-09-28T23:10:06-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,9 +9,38 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-28T22:08:58-05:00",
-      "confident_flips": [],
-      "needs_eyes": []
+      "updated_at": "2026-09-28T23:10:06-05:00",
+      "confident_flips": [
+        {
+          "buy_price": 350,
+          "buyer": "GameStop",
+          "condition": "New (bought from Walmart 2 weeks ago; includes controller + hookups; photo shows a real PS5, light dust on top)",
+          "distance_mi": 82,
+          "found_at": "2026-09-28T23:10:00-05:00",
+          "listing_id": "1653030896373908",
+          "location": "Hendersonville, TN",
+          "margin": 100,
+          "price": 250,
+          "product_url": "https://www.facebook.com/marketplace/item/1653030896373908",
+          "title": "PlayStation 5 Digital Version. Brand New"
+        }
+      ],
+      "needs_eyes": [
+        {
+          "best_case_margin": 117,
+          "buy_price": 367,
+          "buyer": "eBay",
+          "condition": "Basically brand new; box, charger, extra anti-glare screen protector included",
+          "distance_mi": 57,
+          "found_at": "2026-09-28T23:10:00-05:00",
+          "listing_id": "2076749343202942",
+          "location": "Louisville, KY",
+          "price": 1,
+          "product_url": "https://www.facebook.com/marketplace/item/2076749343202942",
+          "question": "What's your cash price for it, and is it the Z1 Extreme or the base Z1?",
+          "title": "Asus ROG Ally"
+        }
+      ]
     },
     "rugged": {
       "confident_flips": [],
