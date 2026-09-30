@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-29T18:13:30-05:00",
+  "updated_at": "2026-09-30T02:13:12-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-29T18:13:30-05:00",
+      "updated_at": "2026-09-30T02:13:12-05:00",
       "confident_flips": [
         {
           "buy_price": 320,
@@ -108,6 +108,34 @@
           "product_url": "https://www.facebook.com/marketplace/item/1833525371331301",
           "question": "Confirm it powers on, reads discs fine, and the power cable is included \u2014 is the controller the only thing missing?",
           "title": "Sony PlayStation 5 1tTB sin control no control"
+        },
+        {
+          "listing_id": "1131307952914331",
+          "title": "geforce pc",
+          "price": 250,
+          "buy_price": 602,
+          "buyer": "eBay",
+          "best_case_margin": 352,
+          "condition": "unknown - no specs given; desc claims 'runs 380fps, worth about $850'",
+          "location": "Louisa, KY",
+          "distance_mi": 210,
+          "product_url": "https://www.facebook.com/marketplace/item/1131307952914331",
+          "found_at": "2026-09-30T02:20:00-05:00",
+          "question": "What are the CPU, GPU, RAM and SSD specs?"
+        },
+        {
+          "listing_id": "1410460503838654",
+          "title": "MacBook Pro",
+          "price": 75,
+          "buy_price": 219,
+          "buyer": "eBay",
+          "best_case_margin": 144,
+          "condition": "Used (good) - described as 2017 MacBook Pro, 'works great no issues', with case + charger; $75 OBO",
+          "location": "Leitchfield, KY",
+          "distance_mi": 34,
+          "product_url": "https://www.facebook.com/marketplace/item/1410460503838654",
+          "found_at": "2026-09-30T02:20:00-05:00",
+          "question": "Is it the 13-inch or 15-inch model, and what are the RAM/SSD specs?"
         }
       ]
     },
