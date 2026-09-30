@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T15:13:30-05:00",
+  "updated_at": "2026-09-30T16:18:13-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T15:11:43-05:00",
+      "updated_at": "2026-09-30T16:18:13-05:00",
       "confident_flips": [
         {
           "listing_id": "1572495474078238",
@@ -62,19 +62,6 @@
           "distance_mi": 99,
           "product_url": "https://www.facebook.com/marketplace/item/846205945204142",
           "found_at": "2026-09-30T10:12:00-05:00"
-        },
-        {
-          "listing_id": "3007143826296479",
-          "title": "Sony PlayStation 5 Slim Digital Edition",
-          "price": 300,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "margin": 50,
-          "condition": "Used (like new)",
-          "location": "Indianapolis, IN",
-          "distance_mi": 190,
-          "product_url": "https://www.facebook.com/marketplace/item/3007143826296479",
-          "found_at": "2026-09-30T13:06:17-05:00"
         }
       ],
       "needs_eyes": [
@@ -245,6 +232,20 @@
           "product_url": "https://www.facebook.com/marketplace/item/1782716993057364",
           "question": "What are the exact CPU and GPU specs?",
           "found_at": "2026-09-30T14:11:10.774808-05:00"
+        },
+        {
+          "listing_id": "2377106716450607",
+          "title": "Desktop Gaming Computer",
+          "price": 250,
+          "buy_price": null,
+          "buyer": "eBay",
+          "best_case_margin": null,
+          "question": "Can you send a photo of the tower plus the CPU, GPU, RAM and SSD specs? (Main photo shows only a desk/monitor, no computer; description lists no specs.)",
+          "condition": "Used (unknown)",
+          "location": "Chattanooga, TN",
+          "distance_mi": 150,
+          "product_url": "https://www.facebook.com/marketplace/item/2377106716450607",
+          "found_at": "2026-09-30T16:06-05:00"
         }
       ]
     },
