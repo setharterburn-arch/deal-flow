@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T11:13:15-05:00",
+  "updated_at": "2026-09-30T12:09:53-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T11:13:15-05:00",
+      "updated_at": "2026-09-30T12:09:53-05:00",
       "confident_flips": [
         {
           "listing_id": "1624725442449732",
@@ -49,6 +49,19 @@
           "distance_mi": 99,
           "product_url": "https://www.facebook.com/marketplace/item/846205945204142",
           "found_at": "2026-09-30T10:12:00-05:00"
+        },
+        {
+          "listing_id": "1850689892765513",
+          "title": "RTX 2070 Super (Zotac - 8GB)",
+          "price": 100,
+          "buy_price": 149,
+          "buyer": "eBay",
+          "margin": 49,
+          "condition": "used",
+          "location": "Indianapolis, IN",
+          "distance_mi": 190,
+          "product_url": "https://www.facebook.com/marketplace/item/1850689892765513",
+          "found_at": "2026-09-30T12:06:17-05:00"
         }
       ],
       "needs_eyes": [
@@ -61,7 +74,7 @@
           "found_at": "2026-09-29T15:00:31-05:00",
           "listing_id": "2130035411233582",
           "location": "Chattanooga, TN",
-          "price": 200,
+          "price": 150,
           "product_url": "https://www.facebook.com/marketplace/item/2130035411233582",
           "question": "What are the exact CPU, GPU, RAM and SSD specs? (Seller's desc says $200 is their lowest.)",
           "title": "Gaming Desktop PC"
@@ -135,20 +148,6 @@
           "product_url": "https://www.facebook.com/marketplace/item/1131307952914331",
           "found_at": "2026-09-30T02:20:00-05:00",
           "question": "What are the CPU, GPU, RAM and SSD specs?"
-        },
-        {
-          "listing_id": "1410460503838654",
-          "title": "MacBook Pro",
-          "price": 75,
-          "buy_price": 219,
-          "buyer": "eBay",
-          "best_case_margin": 144,
-          "condition": "Used (good) - described as 2017 MacBook Pro, 'works great no issues', with case + charger; $75 OBO",
-          "location": "Leitchfield, KY",
-          "distance_mi": 34,
-          "product_url": "https://www.facebook.com/marketplace/item/1410460503838654",
-          "found_at": "2026-09-30T02:20:00-05:00",
-          "question": "Is it the 13-inch or 15-inch model, and what are the RAM/SSD specs?"
         },
         {
           "listing_id": "1358272146383165",
