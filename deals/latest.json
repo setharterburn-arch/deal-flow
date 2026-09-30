@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T07:50:56-05:00",
+  "updated_at": "2026-09-30T08:07:23-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T07:09:42-05:00",
+      "updated_at": "2026-09-30T08:07:23-05:00",
       "confident_flips": [
         {
           "buy_price": 320,
@@ -150,6 +150,34 @@
           "found_at": "2026-09-30T07:10:00-05:00",
           "best_case_margin": 50,
           "question": "Disc, digital, or slim \u2014 and is the controller + power cable included? (wholesale $350 on all PS5 variants, so a $300 price has $50 margin if it's a working unit)"
+        },
+        {
+          "listing_id": "2540367363458364",
+          "title": "Cooler Master GM34-CWQ ARGB 34\" Curved Gaming Monitor",
+          "price": 150,
+          "buy_price": 208,
+          "buyer": "eBay",
+          "condition": "Used (like new) \u2014 34\" UWQHD 3440x1440 144Hz QD VA HDR400; seller says <10hrs use, original box + accessories; screen condition not photo-verified (FB signed URL unfetchable)",
+          "location": "Amelia, OH",
+          "distance_mi": 180,
+          "product_url": "https://www.facebook.com/marketplace/item/2540367363458364",
+          "found_at": "2026-09-30T08:02:00-05:00",
+          "best_case_margin": 101,
+          "question": "Can you send a photo of the screen powered on to confirm no dead pixels, cracks, or scratches?"
+        },
+        {
+          "listing_id": "1622640432728797",
+          "title": "Samsung Odyssey G6 27\" Gaming Monitors",
+          "price": 450,
+          "buy_price": 495,
+          "buyer": "eBay",
+          "condition": "Used (like new) \u2014 2x Odyssey G6 27\" QHD 240Hz 1ms (LS27BG652ENXGO) + wall mount; seller says perfect condition, no scratches; screen condition not photo-verified (FB signed URL unfetchable)",
+          "location": "Dayton, TN",
+          "distance_mi": 120,
+          "product_url": "https://www.facebook.com/marketplace/item/1622640432728797",
+          "found_at": "2026-09-30T08:02:00-05:00",
+          "best_case_margin": 106,
+          "question": "Can you confirm both are the 240Hz G6 with no dead pixels or scratches, and what's your best cash price for the pair?"
         }
       ]
     },
