@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T13:10:56-05:00",
+  "updated_at": "2026-09-30T14:11:14-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T13:10:56-05:00",
+      "updated_at": "2026-09-30T14:11:14-05:00",
       "confident_flips": [
         {
           "listing_id": "1572495474078238",
@@ -176,20 +176,6 @@
           "question": "What are the CPU, GPU, RAM and SSD specs?"
         },
         {
-          "listing_id": "1358272146383165",
-          "title": "PS5!!",
-          "price": 300,
-          "buy_price": 350,
-          "buyer": "GameStop",
-          "condition": "Used (like new) \u2014 photo-verified real PS5 console; disc vs digital unstated",
-          "location": "Cincinnati, OH",
-          "distance_mi": 180,
-          "product_url": "https://www.facebook.com/marketplace/item/1358272146383165",
-          "found_at": "2026-09-30T07:10:00-05:00",
-          "best_case_margin": 50,
-          "question": "Disc, digital, or slim \u2014 and is the controller + power cable included? (wholesale $350 on all PS5 variants, so a $300 price has $50 margin if it's a working unit)"
-        },
-        {
           "listing_id": "2540367363458364",
           "title": "Cooler Master GM34-CWQ ARGB 34\" Curved Gaming Monitor",
           "price": 150,
@@ -258,6 +244,34 @@
           "product_url": "https://www.facebook.com/marketplace/item/1414070167534169",
           "question": "What are the exact CPU (which i7?), GPU, RAM and SSD specs?",
           "found_at": "2026-09-30T11:13:13-05:00"
+        },
+        {
+          "listing_id": "1126164679779638",
+          "title": "Gaming PC for sell or Graphic Card for sell",
+          "price": 180,
+          "buy_price": 290,
+          "buyer": "eBay",
+          "best_case_margin": 57,
+          "condition": "Used \u2014 card alone $180; seller's '16GB' label is a mislabel (no 16GB 3060 exists \u2014 likely conflated with 16GB system RAM), photo shows tower only, not the card",
+          "location": "Louisville, KY",
+          "distance_mi": 85,
+          "product_url": "https://www.facebook.com/marketplace/item/1126164679779638",
+          "question": "Can you confirm the card is an RTX 3060 12GB and send a photo of the card itself?",
+          "found_at": "2026-09-30T14:11:10.774808-05:00"
+        },
+        {
+          "listing_id": "1782716993057364",
+          "title": "Nitro v 15 gaming laptop",
+          "price": 350,
+          "buy_price": 600,
+          "buyer": "eBay",
+          "best_case_margin": 147,
+          "condition": "Like new per seller ('bought and never used'); primary photo verified as a real Acer Nitro V15; CPU/GPU specs unstated",
+          "location": "Knoxville, TN",
+          "distance_mi": 140,
+          "product_url": "https://www.facebook.com/marketplace/item/1782716993057364",
+          "question": "What are the exact CPU and GPU specs?",
+          "found_at": "2026-09-30T14:11:10.774808-05:00"
         }
       ]
     },
