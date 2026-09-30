@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T09:38:12-05:00",
+  "updated_at": "2026-09-30T10:10:48-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,8 +9,21 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T09:11:37-05:00",
+      "updated_at": "2026-09-30T10:10:48-05:00",
       "confident_flips": [
+        {
+          "listing_id": "1624725442449732",
+          "title": "Ps5",
+          "price": 275,
+          "buy_price": 350,
+          "buyer": "GameStop",
+          "margin": 75,
+          "condition": "Used (good) \u2014 disc version, 1TB, ~6 months old, 1 controller + all hookups included, firm price",
+          "location": "Morristown, TN",
+          "distance_mi": 170,
+          "product_url": "https://www.facebook.com/marketplace/item/1624725442449732",
+          "found_at": "2026-09-30T09:11:37-05:00"
+        },
         {
           "buy_price": 320,
           "buyer": "GameStop",
@@ -38,17 +51,17 @@
           "title": "XFX Speedster SWFT 309 Radeon RX 6700 XT 12GB Graphics Card"
         },
         {
-          "listing_id": "1624725442449732",
-          "title": "Ps5",
-          "price": 275,
+          "listing_id": "846205945204142",
+          "title": "Playstation 5",
+          "price": 300,
           "buy_price": 350,
           "buyer": "GameStop",
-          "margin": 75,
-          "condition": "Used (good) \u2014 disc version, 1TB, ~6 months old, 1 controller + all hookups included, firm price",
-          "location": "Morristown, TN",
-          "distance_mi": 170,
-          "product_url": "https://www.facebook.com/marketplace/item/1624725442449732",
-          "found_at": "2026-09-30T09:11:37-05:00"
+          "margin": 50,
+          "condition": "Used (good) \u2014 original/fat PS5 (photo-verified), plays well per seller, 1 DualSense + charging station with cooling fan; confirm console power cable included; Pok\u00e9mon stickers on exterior (cosmetic)",
+          "location": "Evansville, IN",
+          "distance_mi": 99,
+          "product_url": "https://www.facebook.com/marketplace/item/846205945204142",
+          "found_at": "2026-09-30T10:12:00-05:00"
         }
       ],
       "needs_eyes": [
