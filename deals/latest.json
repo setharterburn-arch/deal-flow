@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-09-30T23:13:07-05:00",
+  "updated_at": "2026-10-01T00:12:14-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-09-30T17:10:00-05:00",
+      "updated_at": "2026-10-01T00:12:14-05:00",
       "confident_flips": [
         {
           "listing_id": "1572495474078238",
@@ -75,7 +75,20 @@
           "distance_mi": 190,
           "product_url": "https://www.facebook.com/marketplace/item/3007143826296479",
           "found_at": "2026-09-30T13:06:17-05:00",
-          "status": "Pending (as of 2026-09-30 17:10 CDT check)"
+          "status": "Sold"
+        },
+        {
+          "listing_id": "1794627335200695",
+          "title": "Sony PlayStation 5 Disc Edition Console",
+          "price": 300,
+          "buy_price": 350,
+          "buyer": "GameStop (x1.25 floor)",
+          "margin": 50,
+          "condition": "Used (good) \u2014 disc edition, 1 DualSense controller, faceplates + disc slot per description; PRIMARY PHOTO SHOWS ONLY THE CONTROLLER \u2014 ask seller for console photo before driving",
+          "location": "Camby, IN",
+          "distance_mi": 170,
+          "product_url": "https://www.facebook.com/marketplace/item/1794627335200695",
+          "found_at": "2026-09-30T21:06:17-05:00"
         }
       ],
       "needs_eyes": [
@@ -246,6 +259,18 @@
           "product_url": "https://www.facebook.com/marketplace/item/1428722749324440",
           "question": "What is the exact model (sticker on the bottom) \u2014 does it boot to Windows and hold a charge?",
           "found_at": "2026-09-30T17:06:17-05:00"
+        },
+        {
+          "listing_id": "3302279019973558",
+          "title": "Open air gaming pc",
+          "price": 250,
+          "best_case_margin": null,
+          "condition": "Used (good) \u2014 open-frame chassis; seller says 'spec in pictures' but photos were not retrievable in this pass, so CPU/GPU/RAM/SSD all unstated",
+          "location": "Indianapolis, IN",
+          "distance_mi": 200,
+          "product_url": "https://www.facebook.com/marketplace/item/3302279019973558",
+          "question": "What are the CPU, GPU, RAM, and SSD specs? (Your description says specs are in the pictures)",
+          "found_at": "2026-10-01T00:06:17-05:00"
         }
       ]
     },
