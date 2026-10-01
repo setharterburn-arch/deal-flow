@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-10-01T00:12:14-05:00",
+  "updated_at": "2026-10-01T07:53:11-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -9,7 +9,7 @@
       "needs_eyes": []
     },
     "pc_console": {
-      "updated_at": "2026-10-01T00:12:14-05:00",
+      "updated_at": "2026-10-01T06:06:00-05:00",
       "confident_flips": [
         {
           "listing_id": "1572495474078238",
@@ -216,7 +216,8 @@
           "distance_mi": 12,
           "product_url": "https://www.facebook.com/marketplace/item/1101796189052049",
           "question": "Can you confirm the exact CPU model and send a Task Manager screenshot showing the RTX 4060?",
-          "found_at": "2026-09-30T11:13:13-05:00"
+          "found_at": "2026-09-30T11:13:13-05:00",
+          "status": "Sold"
         },
         {
           "listing_id": "1414070167534169",
@@ -271,6 +272,21 @@
           "product_url": "https://www.facebook.com/marketplace/item/3302279019973558",
           "question": "What are the CPU, GPU, RAM, and SSD specs? (Your description says specs are in the pictures)",
           "found_at": "2026-10-01T00:06:17-05:00"
+        },
+        {
+          "listing_id": "930126133150756",
+          "title": "Ps5+Controller",
+          "price": 280,
+          "buy_price": 350,
+          "buyer": "GameStop (x1.25 floor)",
+          "margin": 70,
+          "condition": "Used (good) \u2014 PS5 Slim per photo (mid-cover seam, power light on), controller + power cord + HDMI per description; 'need gone asap' motivated seller; disc vs digital NOT resolvable from photo",
+          "location": "Bowling Green, KY",
+          "distance_mi": 14,
+          "product_url": "https://www.facebook.com/marketplace/item/930126133150756",
+          "found_at": "2026-10-01T05:08:16-05:00",
+          "question": "Is it the disc or digital edition?",
+          "status": "open"
         }
       ]
     },
@@ -280,60 +296,23 @@
       "updated_at": null
     },
     "samsung_pixel": {
-      "updated_at": "2026-09-30T09:38:12-05:00",
-      "confident_flips": [],
-      "needs_eyes": [
+      "updated_at": "2026-10-01T07:53:11-05:00",
+      "confident_flips": [
         {
-          "title": "Google Pixel 9 Pro XL",
-          "price": 150,
-          "buy_price": 190,
+          "listing_id": "1071869145472776",
+          "title": "Samsung s25 unlocked",
+          "price": 250,
+          "buy_price": 300,
           "buyer": "BestDealPhones",
-          "margin": 40,
-          "best_case_margin": 40,
-          "location": "Clarksville, TN",
-          "distance_mi": 95,
-          "condition": "used, display defect (screen only visible while pressing lower-right corner; seller suspects loose connection from glass replacement)",
-          "lock_status": "unknown",
-          "question": "Is the Pixel 9 Pro XL carrier-locked or unlocked?",
-          "product_url": "https://www.facebook.com/marketplace/item/1117047107450584",
-          "listing_id": "1117047107450584",
-          "found_at": "2026-09-30T07:50:55-05:00",
-          "note": "Best-case math assumes carrier-locked A/B grade ($190 BDP). Display issue is unresolved \u2014 buyer may grade it down or reject. Clarksville is ~95 mi SW of Glasgow."
-        },
-        {
-          "title": "Samsung Galaxy 17 almost new",
-          "price": 100,
-          "buy_price": null,
-          "buyer": null,
-          "margin": null,
-          "best_case_margin": null,
-          "location": "Owensboro, KY",
-          "distance_mi": 70,
-          "condition": "1 week old, like new",
-          "lock_status": "unknown",
-          "question": "What exact model is this (title just says 'Galaxy 17')?",
-          "product_url": "https://www.facebook.com/marketplace/item/1645102480580899",
-          "listing_id": "1645102480580899",
-          "found_at": "2026-09-30T07:50:55-05:00",
-          "note": "Unknown-model Galaxy at $100; model pinned from description is the deal decider. No margin math possible until model + lock status are known."
-        },
-        {
-          "listing_id": "1790484152277671",
-          "title": "Samsung Flip 5",
-          "price": 150,
-          "buy_price": 225,
-          "buyer": "BestDealPhones",
-          "best_case_margin": 75,
-          "condition": "like new, no scratches or cracks",
-          "lock_status": "T-Mobile locked now; seller says working on getting it unlocked",
-          "location": "Indianapolis, IN",
-          "distance_mi": 200,
-          "question": "Is the phone fully unlocked now?",
-          "product_url": "https://www.facebook.com/marketplace/item/1790484152277671",
-          "found_at": "2026-09-30T09:40:00-05:00",
-          "note": "Best-case assumes unlocked A grade (BDP $225). Still T-Mobile locked = BDP locked A $70, no margin. Indianapolis is ~200 mi north of Glasgow."
+          "margin": 50,
+          "condition": "A/HSO (like new) \u2014 seller says 'hardly used, paid off'; verify grade/storage in person",
+          "location": "Bowling Green, KY",
+          "distance_mi": 13,
+          "product_url": "https://www.facebook.com/marketplace/item/1071869145472776",
+          "found_at": "2026-10-01T07:53:11-05:00"
         }
-      ]
+      ],
+      "needs_eyes": []
     },
     "groups": {
       "updated_at": "2026-09-30T23:13:07-05:00",
