@@ -1,7 +1,7 @@
 {
   "notes": "Writers: Judith's marketplace scans. Readers: Grok Bot, Seth. See schema.md.",
   "timezone": "America/Chicago",
-  "updated_at": "2026-10-08T14:13:32-05:00",
+  "updated_at": "2026-10-08T17:06:48-05:00",
   "watches": {
     "iphone_apple": {
       "updated_at": "2026-09-20T05:35:21-05:00",
@@ -317,6 +317,29 @@
     "groups": {
       "updated_at": "2026-10-08T14:13:32-05:00",
       "confident_flips": [],
+      "needs_eyes": []
+    },
+    "iphone": {
+      "updated_at": "2026-10-08T17:06:48-05:00",
+      "confident_flips": [
+        {
+          "listing_id": "1870436783944565",
+          "title": "Apple MacBook Air 13-inch M4 \u2014 16GB / 256GB \u2014 Open Box",
+          "price": 750,
+          "buy_price": 880,
+          "buyer": "Atlas Mobile",
+          "buy_grade": "Open (open-box, film-on)",
+          "margin": 130,
+          "condition": "Used (like new) \u2014 'new in original box, opened, perfect condition'",
+          "location": "Franklin, TN (~93 mi)",
+          "url": "https://www.facebook.com/marketplace/item/1870436783944565",
+          "scrutiny": [
+            "Verify model number MC6T4 (base 16GB/256GB) via About screenshot",
+            "Atlas Open grade needs film/plastics intact and warranty <30 days activated \u2014 ask for activation date",
+            "'Cash or Venmo only, porch pickup' on a $750 MacBook = meet publicly and inspect before paying"
+          ]
+        }
+      ],
       "needs_eyes": []
     }
   }
